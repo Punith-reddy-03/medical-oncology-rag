@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+chroma_store/
+results/
+data/
+*.pdf
+rl_memory.json
+rl_policy.json
+eval_results_cache.json
+eval_checkpoint.json
